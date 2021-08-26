@@ -1,0 +1,5 @@
+C:\Users\rafael.gamiranda\source\repos\somodoisnumeros\somodoisnumeros\bin\Debug\somodoisnumeros.exe.config
+C:\Users\rafael.gamiranda\source\repos\somodoisnumeros\somodoisnumeros\bin\Debug\somodoisnumeros.exe
+C:\Users\rafael.gamiranda\source\repos\somodoisnumeros\somodoisnumeros\bin\Debug\somodoisnumeros.pdb
+C:\Users\rafael.gamiranda\source\repos\somodoisnumeros\somodoisnumeros\obj\Debug\somodoisnumeros.exe
+C:\Users\rafael.gamiranda\source\repos\somodoisnumeros\somodoisnumeros\obj\Debug\somodoisnumeros.pdb
